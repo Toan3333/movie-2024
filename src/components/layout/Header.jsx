@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container">
         <div className="header-main flex justify-between items-center py-6 px-2">
           <div className="header-logo">
-            <img src="/logo.png" className="w-36 h-12" alt="Logo" />
+            <img src="./logo.png" className="w-36 h-12" alt="Logo" />
           </div>
           <div className="max-w-[455px] w-full relative flex items-center justify-center">
             <input
