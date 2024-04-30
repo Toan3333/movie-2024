@@ -17,7 +17,7 @@ const Dowload = () => {
             </p>
           </div>
           <div className="w-full">
-            <img src="/mobile.png" className="w-full h-full object-cover" alt="Mobile" />
+            <img src="./mobile.png" className="w-full h-full object-cover" alt="Mobile" />
           </div>
         </div>
       </div>
